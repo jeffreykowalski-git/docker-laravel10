@@ -18,7 +18,7 @@ From second terminal:
 
 `docker-compose run --rm artisan migrate`
 
-After initial install you can stop the container by either **Cntrl-C** or **⌘-C** on Mac to escape.
+After initial install you can stop the container by either **Cntrl-C** to escape.
 Or by using the *Docker-Desktop* GUI.
 
 ## Starting container after install/exit
