@@ -21,6 +21,9 @@ From second terminal:
 After initial install you can stop the container by either **Cntrl-C** to escape.
 Or by using the *Docker-Desktop* GUI.
 
+## Working folder
+The working *Laravel* folder is `/src`. Do all your development here.
+
 ## Starting container after install/exit
 
 `docker-compose up`
