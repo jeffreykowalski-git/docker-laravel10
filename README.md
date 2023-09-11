@@ -16,6 +16,8 @@ From second terminal:
 
 `docker-compose run --rm npm install`
 
+Change file `.env.example` to `.env` in `/src` folder
+
 `docker-compose run --rm artisan migrate`
 
 After initial install you can stop the container by either **Cntrl-C** to escape.
